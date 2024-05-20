@@ -1,4 +1,6 @@
 # TUGAS PEMOGRAMAN PYTHON
+# by b01l3d3gg137
+
 def add(a, b):
     return a + b
 
